@@ -7,6 +7,7 @@ import { About } from './component/screens/About';
 import { Contact } from './component/screens/Contact';
 import React, { createContext, useReducer } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { FooterWithSocialLinks } from './component/Footer';
 
 export const UserContext = createContext();
 
@@ -37,6 +38,7 @@ function App() {
               
             </Routes>
           </div>
+          <FooterWithSocialLinks/>
         </div>
       </BrowserRouter>
     </UserContext.Provider>

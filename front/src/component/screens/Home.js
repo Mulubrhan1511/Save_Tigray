@@ -68,7 +68,7 @@ export const Home = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80"
+        src="F:\website projects\Save_Tigray\front\public\images\photo-1522202176988-66273c2fd55f.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
@@ -114,7 +114,7 @@ export const Home = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80"
+        src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fworld-education-blog.org%2F2023%2F09%2F27%2Fpostwar-recovery-of-the-tigray-education-system-challenges-and-support-needed%2F&psig=AOvVaw0Y44LHgpbc8XLqNAMyRKDv&ust=1703024955987000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDt8KTlmYMDFQAAAAAdAAAAABAD&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80"
         alt="image"
         class="h-full w-full object-cover"
       />

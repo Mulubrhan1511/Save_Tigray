@@ -35,7 +35,7 @@ export default function Example() {
               <div class="flex flex-shrink-0 items-center">
   <img
     class="h-8 w-auto hidden sm:block"
-    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+    src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703007845/android-chrome-512x512_lbek4r.png"
     alt="Your Company"
   />
 </div>

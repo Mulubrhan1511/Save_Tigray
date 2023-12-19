@@ -12,14 +12,14 @@ export const About = () => {
                 <div className="w-full px-3 sm:px-4 xl:w-1/2">
                   <div className="py-3 sm:py-4">
                     <img
-                      src="https://i.ibb.co/gFb3ns6/image-1.jpg"
+                      src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002220/photo-1522202176988-66273c2fd55f_hjprop.jpg"
                       alt=""
                       className="w-full rounded-2xl"
                     />
                   </div>
                   <div className="py-3 sm:py-4">
                     <img
-                      src="https://i.ibb.co/rfHFq15/image-2.jpg"
+                      src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703003809/photo_2023-12-02_12-26-36_wi6wa8.jpg"
                       alt=""
                       className="w-full rounded-2xl"
                     />
@@ -28,7 +28,7 @@ export const About = () => {
                 <div className="w-full px-3 sm:px-4 xl:w-1/2">
                   <div className="relative z-10 my-4">
                     <img
-                      src="https://i.ibb.co/9y7nYCD/image-3.jpg"
+                      src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703003804/photo_2023-12-02_12-12-35_rhudl3.jpg"
                       alt=""
                       className="w-full rounded-2xl"
                     />
@@ -610,15 +610,13 @@ export const About = () => {
             <div className="w-full px-4 lg:w-1/2 xl:w-5/12">
               <div className="mt-10 lg:mt-0">
                 <span className="block mb-4 text-lg font-semibold text-primary">
-                  Why Choose Us
+                  About us
                 </span>
                 <h2 className="mb-5 text-3xl font-bold text-dark dark:text-white sm:text-[40px]/[48px]">
-                  Make your customers happy by giving services.
+                  About Tigray Back to School
                 </h2>
                 <p className="mb-5 text-base text-body-color dark:text-dark-6">
-                  It is a long established fact that a reader will be distracted
-                  by the readable content of a page when looking at its layout.
-                  The point of using Lorem Ipsum is that it has a more-or-less.
+                 
                 </p>
                 <p className="mb-8 text-base text-body-color dark:text-dark-6">
                   A domain name is one of the first steps to establishing your
@@ -639,7 +637,7 @@ export const About = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002782/damage_of_schools_vaqah6.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
@@ -647,7 +645,7 @@ export const About = () => {
     <div class="p-6">
       
       <h4 class="mb-2 block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
-        Lyft launching cross-platform service this week
+        SITUATION OF EDUCATION IN TIGRAY BEFORE CRISIS 
       </h4>
       <p class="mb-8 block font-sans text-base font-normal leading-relaxed text-gray-700 antialiased">
         Like so many organizations these days, Autodesk is a company in
@@ -684,7 +682,7 @@ export const About = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002768/%E1%89%B5%E1%88%9D%E1%88%85%E1%88%AD%E1%89%B2_%E1%8B%98%E1%8B%AD%E1%8A%90%E1%8C%BD%E1%8D%85%E1%8D%8D_%E1%88%83%E1%8D%8D%E1%89%B2_%E1%8A%A5%E1%8B%A9_zebmfy.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
@@ -692,7 +690,7 @@ export const About = () => {
     <div class="p-6">
       
       <h4 class="mb-2 block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
-        Lyft launching cross-platform service this week
+        HUMAN LOSS FROM THE EDUCATION SECTOR
       </h4>
       <p class="mb-8 block font-sans text-base font-normal leading-relaxed text-gray-700 antialiased">
         Like so many organizations these days, Autodesk is a company in
@@ -729,7 +727,7 @@ export const About = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703003698/186870587_807554593199664_969022521840607046_n_xt5dcr.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
@@ -737,7 +735,7 @@ export const About = () => {
     <div class="p-6">
       
       <h4 class="mb-2 block font-sans text-2xl font-semibold leading-snug tracking-normal text-blue-gray-900 antialiased">
-        Lyft launching cross-platform service this week
+         DAMAGE OF BUILDINGS AND SUPPLIES
       </h4>
       <p class="mb-8 block font-sans text-base font-normal leading-relaxed text-gray-700 antialiased">
         Like so many organizations these days, Autodesk is a company in

@@ -13,6 +13,7 @@ export const Home = () => {
     </div>
     <div class="md:shrink-0 mt-40 md:mt-0 md:ml-60">
       <img class="h-72 w-full object-cover md:h-full md:w-72 rounded-full" src="https://res.cloudinary.com/dhw1mueq4/image/upload/v1702729179/tigray_students_children_going_back_to_school_after_war_rost6a.png" alt="Modern building architecture"/>
+    <img src='../../images/kit_for_for_student.jpg'/>
     </div>
   </div>
   <div class="flex items-center lg:mr-4 lg:order-2">
@@ -23,7 +24,7 @@ export const Home = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="F:\website projects\Save_Tigray\front\public\images\damage_of_schools.jpg"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002782/damage_of_schools_vaqah6.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
@@ -68,7 +69,7 @@ export const Home = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="F:\website projects\Save_Tigray\front\public\images\photo-1522202176988-66273c2fd55f.jpg"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002768/%E1%89%B5%E1%88%9D%E1%88%85%E1%88%AD%E1%89%B2_%E1%8B%98%E1%8B%AD%E1%8A%90%E1%8C%BD%E1%8D%85%E1%8D%8D_%E1%88%83%E1%8D%8D%E1%89%B2_%E1%8A%A5%E1%8B%A9_zebmfy.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
@@ -114,7 +115,7 @@ export const Home = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://https://www.google.com/url?sa=i&url=https%3A%2F%2Fworld-education-blog.org%2F2023%2F09%2F27%2Fpostwar-recovery-of-the-tigray-education-system-challenges-and-support-needed%2F&psig=AOvVaw0Y44LHgpbc8XLqNAMyRKDv&ust=1703024955987000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDt8KTlmYMDFQAAAAAdAAAAABAD&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1471&amp;q=80"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703003698/186870587_807554593199664_969022521840607046_n_xt5dcr.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />

@@ -4,7 +4,8 @@ export const About = () => {
   return (
     <div>
          <>
-         <section className="overflow-hidden pt-10 pb-8 lg:pt-20 lg:pb-12 xl:pt-16 xl:pb-10 bg-white dark:bg-dark">
+         <section className="overflow-hidden pt-10 pb-8 lg:pt-20 lg:pb-12 xl:pt-16 xl:pb-10 px-4 lg:px-8 bg-white dark:bg-dark">
+
         <div className="container mx-auto">
           <div className="flex flex-wrap items-center justify-between -mx-4">
             <div className="w-full px-4 lg:w-6/12">

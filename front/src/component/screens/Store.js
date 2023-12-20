@@ -110,7 +110,7 @@ export const Store = () => {
    
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
         <a href="#">
-            <img src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002768/kit_for_for_student2_lhqlnd.jpg"
+            <img src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703056983/new_store_kit_qxlsad.jpg"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
                 <span class="text-gray-400 mr-3 uppercase text-xs">Gift package</span>
@@ -134,7 +134,7 @@ export const Store = () => {
   
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
         <a href="#">
-            <img src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002768/kit_for_for_student2_lhqlnd.jpg"
+            <img src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703056983/new_store_kit_qxlsad.jpg"
                     alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
             <div class="px-4 py-3 w-72">
                 <span class="text-gray-400 mr-3 uppercase text-xs">Gift package</span>

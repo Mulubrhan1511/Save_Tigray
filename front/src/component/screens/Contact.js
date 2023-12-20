@@ -3,7 +3,10 @@ import React from 'react'
 export const Contact = () => {
   return (
     <div>
-      <section class="bg-white py-20 lg:py-[120px] overflow-hidden relative z-10 px-12">
+      <section class="bg-white py-20 lg:py-[120px] overflow-hidden relative z-10 px-12 mx-auto text-center w-full">
+
+
+
 
 
 

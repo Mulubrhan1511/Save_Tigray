@@ -32,13 +32,14 @@ export default function Example() {
                   )}
                 </Disclosure.Button>
               </div>
-              <div class="flex flex-shrink-0 items-center">
+              <div class="flex items-center">
   <img
     class="h-8 w-auto hidden sm:block"
     src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703007845/android-chrome-512x512_lbek4r.png"
     alt="Your Company"
   />
 </div>
+
 
               <div class="flex flex-1 items-center justify-between sm:items-stretch sm:justify-center">
   

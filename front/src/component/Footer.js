@@ -19,7 +19,7 @@ const currentYear = new Date().getFullYear();
  
 export function FooterWithSocialLinks() {
   return (
-    <footer className="relative w-full bg-yellow-500">
+    <footer className="relative w-full" style={{ backgroundColor: '#ff8000' }}>
 
 
 
@@ -27,15 +27,15 @@ export function FooterWithSocialLinks() {
         <div className="grid grid-cols-1 justify-between gap-4 md:grid-cols-2">
           <Typography variant="h5" className="mb-6">
           Tigray
-Back
-To School
+          Back
+          To School
           </Typography>
           <div className="grid grid-cols-3 justify-between gap-4">
             {LINKS.map(({ title, items }) => (
               <ul key={title}>
                 <Typography
-                  variant="small"
-                  color="blue-gray"
+                  variant="big"
+                  color="white"
                   className="mb-3 font-medium opacity-40"
                 >
                   {title}
@@ -45,7 +45,7 @@ To School
                     <Typography
                       as="a"
                       href="#"
-                      color="gray"
+                      color="black"
                       className="py-1.5 font-normal transition-colors hover:text-blue-gray-900"
                     >
                       {link}
@@ -61,7 +61,7 @@ To School
             variant="small"
             className="mb-4 text-center font-normal text-blue-gray-900 md:mb-0"
           >
-            &copy; {currentYear} <a href="https://material-tailwind.com/">Tigray back to school</a>. All
+            &copy; {currentYear} <a href="#">Tigray back to school</a>. All
             Rights Reserved.
           </Typography>
           <div className="flex gap-4 text-blue-gray-900 sm:justify-center">

@@ -24,7 +24,7 @@ export const Home = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002782/damage_of_schools_vaqah6.jpg"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703102013/situation_of_education_in_tigray_mtrkij.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
@@ -115,7 +115,7 @@ export const Home = () => {
   <div class="relative flex w-full max-w-[56rem] flex-row rounded-xl bg-white bg-clip-border text-gray-700 shadow-md mb-8">
     <div class="relative m-0 w-2/5 shrink-0 overflow-hidden rounded-xl rounded-r-none bg-white bg-clip-border text-gray-700">
       <img
-        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703003698/186870587_807554593199664_969022521840607046_n_xt5dcr.jpg"
+        src="https://res.cloudinary.com/diulu4bz3/image/upload/v1703002782/damage_of_schools_vaqah6.jpg"
         alt="image"
         class="h-full w-full object-cover"
       />
